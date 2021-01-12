@@ -1,2 +1,2 @@
 # Java
-Flames game in C and python
+It includes all the basic and advance concepts of Java using different programs. 
